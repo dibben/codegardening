@@ -3,15 +3,15 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseURL: 'https://example.com/' # Website URL
+title: CodeGardening
+baseURL: 'https://codegardening.com/' # Website URL
 
 ############################
 ## LANGUAGE
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+hasCJKLanguage: yes
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
@@ -30,7 +30,8 @@ module:
 ## ADVANCED
 ############################
 
-enableGitInfo: false
+enableGitInfo: true
+copyright: '&copy; David Dibben {year}'
 summaryLength: 30
 paginate: 10
 enableEmoji: true
@@ -48,7 +49,7 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  quality: 90
   anchor: smart
 timeout: 600000
 taxonomies:
