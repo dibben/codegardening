@@ -42,7 +42,7 @@ that explains the basic details.
   
 This produced a graph for those I follow on twitter like this:  
 
-{{< figure src="img1.png" >}}
+{{< figure src="2020-05-24-analysing-my-twitter-network-twitter_graph_overview_annotated.png" >}}
   
 The nodes on the graph are the people I follow on Twitter. The edges in
 the graph are the followship links between these people. The size of the
@@ -74,25 +74,13 @@ Japanese whereas the rest are English. Even though the Japanese
 developers have a strong interest in "agile software development" there
 are few links to the non-Japanese developers I follow:  
   
-
-[![](thumbnails/2020-05-24-analysing-my-twitter-network-twitter_graph_yohatu.png)](2020-05-24-analysing-my-twitter-network-twitter_graph_yohatu.png)
-
-  
-  
+![](2020-05-24-analysing-my-twitter-network-twitter_graph_yohatu.png)
 
 It is clear that the main group I follow is the "software development"
 group. I it is interesting to me that the analysis algorithm split this
 into two groups.  
   
-
-  
-
-  
-
-[![](thumbnails/2020-05-24-analysing-my-twitter-network-twitter_graph_main.png)](2020-05-24-analysing-my-twitter-network-twitter_graph_main.png)
-
-  
-
+![](2020-05-24-analysing-my-twitter-network-twitter_graph_main.png)
   
   
 Since this exercise was prompted by the PKM workshop I looked at the
@@ -100,9 +88,8 @@ people that [@hjarche](https://twitter.com/hjarche) and myself both
 follow. I was surprised that there are only a few that be both follow:  
   
 
-[![](thumbnails/2020-05-24-analysing-my-twitter-network-twitter_graph_hjarche.png)](2020-05-24-analysing-my-twitter-network-twitter_graph_hjarche.png)
+![](2020-05-24-analysing-my-twitter-network-twitter_graph_hjarche.png)
 
-  
   
 I am not sure where to go from here. My list of follows needs some
 pruning. Also, some areas need expanding.  
