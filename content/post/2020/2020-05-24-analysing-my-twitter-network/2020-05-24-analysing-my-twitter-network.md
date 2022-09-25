@@ -41,12 +41,8 @@ that explains the basic details.
   
   
 This produced a graph for those I follow on twitter like this:  
-  
-  
 
-[![](../images/thumbnails/2020-05-24-analysing-my-twitter-network-twitter_graph_overview_annotated.png)](../images/2020-05-24-analysing-my-twitter-network-twitter_graph_overview_annotated.png)
-
-  
+{{< figure src="img1.png" >}}
   
 The nodes on the graph are the people I follow on Twitter. The edges in
 the graph are the followship links between these people. The size of the
@@ -79,7 +75,7 @@ developers have a strong interest in "agile software development" there
 are few links to the non-Japanese developers I follow:  
   
 
-[![](../images/thumbnails/2020-05-24-analysing-my-twitter-network-twitter_graph_yohatu.png)](../images/2020-05-24-analysing-my-twitter-network-twitter_graph_yohatu.png)
+[![](thumbnails/2020-05-24-analysing-my-twitter-network-twitter_graph_yohatu.png)](2020-05-24-analysing-my-twitter-network-twitter_graph_yohatu.png)
 
   
   
@@ -93,7 +89,7 @@ into two groups.
 
   
 
-[![](../images/thumbnails/2020-05-24-analysing-my-twitter-network-twitter_graph_main.png)](../images/2020-05-24-analysing-my-twitter-network-twitter_graph_main.png)
+[![](thumbnails/2020-05-24-analysing-my-twitter-network-twitter_graph_main.png)](2020-05-24-analysing-my-twitter-network-twitter_graph_main.png)
 
   
 
@@ -104,7 +100,7 @@ people that [@hjarche](https://twitter.com/hjarche) and myself both
 follow. I was surprised that there are only a few that be both follow:  
   
 
-[![](../images/thumbnails/2020-05-24-analysing-my-twitter-network-twitter_graph_hjarche.png)](../images/2020-05-24-analysing-my-twitter-network-twitter_graph_hjarche.png)
+[![](thumbnails/2020-05-24-analysing-my-twitter-network-twitter_graph_hjarche.png)](2020-05-24-analysing-my-twitter-network-twitter_graph_hjarche.png)
 
   
   
