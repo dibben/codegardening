@@ -25,7 +25,7 @@ image:
 ---
 
 
-I attended my first in-person meeting for a long time yesterday. The 186th High Performance Computing Research Meeting (第186回ハイパフォーマンスコンピューティング研究発表会) held at the [RIKEN center for computational science](https://www.r-ccs.riken.jp/).
+I attended my first in-person meeting for a long time yesterday. The 186th High Performance Computing Research Meeting (第186回ハイパフォーマンスコンピューティング研究発表会) held at the [RIKEN center for computational science](https://www.r-ccs.riken.jp/en/).
 It was a small event (30 people in a large room) and as this is Japan _everyone_ wore a mask. 
 
 This is also the home of FUGAKU and there was a chance to see it after the event. Until May this year FUGAKU was the fastest supercomputer in the world. 
