@@ -1,10 +1,29 @@
-+++
-title = "Analysing My Twitter Network"
-slug = "2020-05-24-analysing-my-twitter-network"
-published = 2020-05-24T11:43:00.002000+09:00
-author = "David Dibben"
-tags = [ "PKM",]
-+++
+---
+
+title: "Analysing My Twitter Network"
+subtitle: ""
+summary: "Mapping twitter connections to find different networks"
+authors: ["dibben"]
+tags: ["PKM", "twitter"]
+categories: []
+publishDate:  2020-05-24T11:43:00.002000+09:00
+lastmod:  2020-05-24T11:43:00.002000+09:00
+featured: false
+draft: false
+type: post
+math:
+  enable: true
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+---
+
 I have been on twitter for more then 10 years, but normally use it as a
 source of information, just reading tweets rather than for
 conversations. As part of [@hjarche](https://twitter.com/hjarche)'s [PKM

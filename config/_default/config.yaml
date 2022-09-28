@@ -30,7 +30,7 @@ module:
 ## ADVANCED
 ############################
 
-enableGitInfo: true
+enableGitInfo: false
 copyright: '&copy; David Dibben {year}'
 summaryLength: 30
 paginate: 10
