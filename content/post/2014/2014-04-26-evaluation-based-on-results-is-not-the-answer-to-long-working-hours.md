@@ -21,10 +21,10 @@ nearly all stayed very late. Many still stay fairly late but the company
 has prohibited Saturday working and is putting limits on overtime.
 </span>
 
-<span style="font-family: inherit;">  
+
 </span><span style="font-family: inherit;">What really worried me in the
 [Yomiuri article](http://www.the-japan-news.com/news/article/0001229901)
-though was the quote:</span>
+though was the quote:
 
 > <span style="font-family: inherit;">“I would like you to investigate a
 > framework for a new working-hours system that befits work styles
