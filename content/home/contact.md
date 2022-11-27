@@ -30,6 +30,10 @@ content:
     latitude: '34.7361651'
     longitude: '135.822022'
   contact_links:
+    - icon: mastodon
+      icon_pack: fab
+      name: Mastodon
+      link: 'https://functional.cafe/@dibben'
     - icon: twitter
       icon_pack: fab
       name: Twitter

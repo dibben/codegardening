@@ -33,6 +33,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
+  - icon: mastodon
+    icon_pack: fab
+    link: https://functional.cafe/@dibben
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/daviddibben
