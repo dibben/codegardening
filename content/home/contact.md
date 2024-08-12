@@ -34,10 +34,7 @@ content:
       icon_pack: fab
       name: Mastodon
       link: 'https://functional.cafe/@dibben'
-    - icon: twitter
-      icon_pack: fab
-      name: Twitter
-      link: 'https://twitter.com/daviddibben'
+
 
 design:
   columns: '2'
