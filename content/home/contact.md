@@ -25,7 +25,7 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: codegardening@gmail.com
+  email: dibben@codegardening.com
   coordinates: 
     latitude: '34.7361651'
     longitude: '135.822022'
