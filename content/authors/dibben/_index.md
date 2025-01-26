@@ -54,7 +54,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'dibben@ieee.org'
+email: 'dibben@codegardening.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
